@@ -244,7 +244,7 @@
                 </div>
             </main>
         </div>
-
+        <flux:calendar />
         @if (Route::has('login'))
             <div class="h-14.5 hidden lg:block"></div>
         @endif
